@@ -14,4 +14,4 @@ This repository contains a Node.js application that interacts with a MySQL datab
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-node-app.git
+   https://github.com/asif-sidd9768/ikshealth-backend/)https://github.com/asif-sidd9768/ikshealth-backend/
