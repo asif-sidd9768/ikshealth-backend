@@ -20,7 +20,7 @@ const upload = multer({ storage: storage });
 
 const router = express.Router();
 
-router.get('/', getAllUsers);
+router.get('/api', getAllUsers);
 router.get('/api/countries', getCountries);
 router.post('/api/file-upload', upload.single('photo'), fileUpload);
 router.post('/api/users/:id', upload.single('photo'), updateUser);
