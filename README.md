@@ -18,3 +18,14 @@ This repository contains a Node.js application that interacts with a MySQL datab
 
    cd ikshealth-backend
    npm install
+
+Start your XAMPP server and ensure Apache and MySQL are running.
+
+Configure MySQL database:
+
+    Create a new database.
+    Update the database connection details in the config.js or config.json file.
+
+Run the Node.js application:
+   ```bash
+   node index.js
